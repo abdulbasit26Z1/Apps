@@ -4,9 +4,9 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-    <!-- Homepage / Main Directory -->
+    <!-- Main Directory Index -->
     <url>
-        <loc>https://azmeer.com/index.html</loc>
+        <loc>https://abdulbasit26z1.github.io/Apps/</loc>
         <lastmod>2026-09-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -14,7 +14,7 @@
 
     <!-- Crypto Tracker Pro -->
     <url>
-        <loc>https://azmeer.com/crypto-tracker-pro/index.html</loc>
+        <loc>https://abdulbasit26z1.github.io/Apps/crypto-tracker-pro/</loc>
         <lastmod>2026-09-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -22,7 +22,7 @@
 
     <!-- Rotary Dial Calculator -->
     <url>
-        <loc>https://azmeer.com/rotary-dial-calculator/index.html</loc>
+        <loc>https://abdulbasit26z1.github.io/Apps/rotary-dial-calculator/</loc>
         <lastmod>2026-09-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -30,7 +30,7 @@
 
     <!-- Sun Flower Simulator -->
     <url>
-        <loc>https://azmeer.com/sun-flower-simulator/index.html</loc>
+        <loc>https://abdulbasit26z1.github.io/Apps/sun-flower-simulator/</loc>
         <lastmod>2026-09-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -38,7 +38,7 @@
 
     <!-- AZ AI Studio -->
     <url>
-        <loc>https://azmeer.com/az-ai-studio/index.html</loc>
+        <loc>https://abdulbasit26z1.github.io/Apps/az-ai-studio/</loc>
         <lastmod>2026-09-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -46,7 +46,7 @@
 
     <!-- Solo Chess by Az Meer -->
     <url>
-        <loc>https://azmeer.com/solo-chess/index.html</loc>
+        <loc>https://abdulbasit26z1.github.io/Apps/solo-chess/</loc>
         <lastmod>2026-09-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
