@@ -4,52 +4,36 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-    <!-- Main Directory Index -->
-    <url>
-        <loc>https://abdulbasit26z1.github.io/Apps/</loc>
-        <lastmod>2026-09-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
+    <url><loc>https://abdulbasit26z1.github.io/Apps/</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
 
-    <!-- Crypto Tracker Pro -->
-    <url>
-        <loc>https://abdulbasit26z1.github.io/Apps/crypto-tracker-pro/</loc>
-        <lastmod>2026-09-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+    <url><loc>https://abdulbasit26z1.github.io/Apps/azai-studio/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
 
-    <!-- Rotary Dial Calculator -->
-    <url>
-        <loc>https://abdulbasit26z1.github.io/Apps/rotary-dial-calculator/</loc>
-        <lastmod>2026-09-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+    <url><loc>https://abdulbasit26z1.github.io/Apps/ehtisab-nasbiyat/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
 
-    <!-- Sun Flower Simulator -->
-    <url>
-        <loc>https://abdulbasit26z1.github.io/Apps/sun-flower-simulator/</loc>
-        <lastmod>2026-09-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+    <url><loc>https://abdulbasit26z1.github.io/Apps/azusms-university-management/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
 
-    <!-- AZ AI Studio -->
-    <url>
-        <loc>https://abdulbasit26z1.github.io/Apps/az-ai-studio/</loc>
-        <lastmod>2026-09-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+    <url><loc>https://abdulbasit26z1.github.io/Apps/ai-dream-mapper/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
 
-    <!-- Solo Chess by Az Meer -->
-    <url>
-        <loc>https://abdulbasit26z1.github.io/Apps/solo-chess/</loc>
-        <lastmod>2026-09-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+    <url><loc>https://abdulbasit26z1.github.io/Apps/prompthub/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+    <url><loc>https://abdulbasit26z1.github.io/Apps/arrow-puzzle/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+    <url><loc>https://abdulbasit26z1.github.io/Apps/solo-chess/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+    <url><loc>https://abdulbasit26z1.github.io/Apps/rotary-dial-calculator/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+    <url><loc>https://abdulbasit26z1.github.io/Apps/rotary-dial-calculator-pro/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+    <url><loc>https://abdulbasit26z1.github.io/Apps/sunflower-sim/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+    <url><loc>https://abdulbasit26z1.github.io/Apps/azcrypt/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+    <url><loc>https://abdulbasit26z1.github.io/Apps/azxoxo/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+    <url><loc>https://abdulbasit26z1.github.io/Apps/pizza-delivery-3d/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+    <url><loc>https://abdulbasit26z1.github.io/Apps/sun-flower-simulator/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+    <url><loc>https://abdulbasit26z1.github.io/Apps/az-xoxo/index.html</loc><lastmod>2026-03-31</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
 </urlset>
